@@ -39,6 +39,6 @@ docker-compose up --build -d
 ```
 Maintenant, allez sur [127.0.0.1:8001](http://127.0.0.1:8001) et profitez-en.
 
-![Interface](/home/kali/Musique/1.Injection/www/assets/images/Screenshot_20240213_131509.png)
+![Interface](/home/kali/Musique/1.Injection/www/assets/images/Screenshot_20240213_131509.jpg)
 
 
