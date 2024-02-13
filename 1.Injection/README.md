@@ -14,7 +14,8 @@ https://owasp.org/www-project-top-ten/
 Ce défi vous permet d'apprendre la vulnérabilité d'injection.
 
 ```
-Les failles d'injection, telles que SQL, NoSQL, OS et LDAP, se produisent lorsque des données non fiables sont envoyées à un interpréteur dans le cadre d'une commande ou d'une requête. Les données hostiles de l'attaquant peuvent tromper l'interpréteur pour exécuter des commandes non prévues ou accéder à des données sans autorisation appropriée.
+Les failles d'injection, telles que SQL, NoSQL, OS et LDAP, se produisent lorsque des données non fiables sont envoyées à un interpréteur dans le cadre d'une commande ou d'une requête. 
+Les données hostiles de l'attaquant peuvent tromper l'interpréteur pour exécuter des commandes non prévues ou accéder à des données sans autorisation appropriée.
 
 ```
 
