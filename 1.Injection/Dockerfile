@@ -1,5 +1,8 @@
 FROM php:7.4.14-apache
 
+LABEL version="1.0" maintainer="Sony level"
+LABEL description="This is a custom image for the Injection challenge. It contains a custom php.ini file."
+
 RUN apt update && \
     apt upgrade -y
    
