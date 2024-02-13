@@ -3,6 +3,8 @@ Ce projet vise à fournir une ressource complète pour comprendre et mitiger les
 
 ## :memo: Objectifs
 
+
+
 # 10 défis pour découvrir les dix principales vulnérabilités OWASP
 
 Ces défis aident à comprendre les vulnérabilités web les plus courantes.
