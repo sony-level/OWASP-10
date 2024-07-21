@@ -15,7 +15,7 @@ Le Top 10 OWASP est un document de sensibilisation standard pour les développeu
 https://owasp.org/www-project-top-ten/
 
 ## :dart: Défis
-
+ 
 Ces défis ont été conçus pour les débutants et ne supposent aucune connaissance préalable solide en matière de sécurité.
 Il s'agit seulement d'une introduction aux dix principales vulnérabilités OWASP.
 
