@@ -2,7 +2,7 @@
 Ce projet vise à fournir une ressource complète pour comprendre et mitiger les principales vulnérabilités de sécurité Web répertoriées dans le top 10 de l'OWASP (Open Web Application Security Project).
  
 ## :memo: Objectifs
-
+ 
 
 
 # 10 défis pour découvrir les dix principales vulnérabilités OWASP
