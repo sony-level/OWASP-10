@@ -25,4 +25,4 @@ services:
       MYSQL_USER: admin
       MYSQL_PASSWORD: YoursuperPassword
     ports: 
-      - 127.0.0.1:6001:3306
+      - 127.0.0.1:6001:3306 
