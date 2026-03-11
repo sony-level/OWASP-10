@@ -24,5 +24,5 @@ services:
       MYSQL_DATABASE: owasp1
       MYSQL_USER: admin
       MYSQL_PASSWORD: YoursuperPassword
-    ports: 
+    ports:
       - 127.0.0.1:6001:3306 
